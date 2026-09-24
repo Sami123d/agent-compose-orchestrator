@@ -143,5 +143,5 @@ We welcome senior-level contributions to the core engine. Check [CONTRIBUTING.md
 ## Attribution
 This project is based on [Ismail-2001/agent-compose](https://github.com/Ismail-2001/agent-compose), licensed under the MIT License.
 Base template by Daniel Lopez Orta; developed further by Ismail Sajid (Ismail-2001).
-Modifications in this repository are by Sami Ahmed (sami.ahmed@ztech.com.pk).
+Modifications in this repository are by Sami Ahmed (saminazirqureshi1@gmail.com).
 The original LICENSE file and its copyright notice are preserved unchanged below.
